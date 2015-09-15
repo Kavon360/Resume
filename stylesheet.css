@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster'), url(http://fonts.gstatic.com/s/lobster/v9/9eID_a1kLfzp_BP9s4L15g.woff) format('woff');
+}
+
+
+
+body {
+	background-image: url('WB.jpg');
+	background-attachment: fixed;
+
+}
+
+h1 {
+	font-family: Lobster;
+	font-size: 50px;
+	text-align: left;
+	color: orange;
+}
+
+h2 {
+	font-family: Lobster;
+	font-size: 25px;
+	text-align: left;
+	color: orange;
+}
+
+hr{
+	color: blue;
+}
+
+#left{
+	text-align: left;
+	color: orange;
+	
+}
+
+
+#info{
+	font-size: 20px;
+	color: orange;
+	font-family: Lobster;
+}
+
+#cate{
+	font-size: 35px;
+	color: orange;
+	font-family: Lobster;
+}
+
+
+img{
+	float: right;
+	width: 20%;
+	max-height: 40%;
+	
+}
+ 
+table{
+	width: 80%;
+}
+
+li{
+	font-family: Lobster;
+	color: orange;
+}
+
+table, td, th {
+    border: 1px solid blue;
+}
+
+
+
